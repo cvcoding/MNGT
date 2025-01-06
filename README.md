@@ -1,4 +1,4 @@
-This code is for the paper "MNGT: A Multi-scale Nested Graph Transformer for Classification of High-Resolution Chest X-ray Images with Limited Annotations"
+This code is for the paper "MNGT: A Multi-scale Nested Graph Transformer with Graph Operations for High-Resolution Chest X-ray Image Classification"
 
 Abstract: The classification of high-resolution Chest X-ray (CXR) images is crucial for accurate diagnosis and treatment planning of various lung conditions. 
 In this paper, we introduce a Multi-scale Nested Graph Transformer (MNGT) architecture specifically designed for the efficient analysis of such images. 
